@@ -59,6 +59,7 @@ Collaboration and open-source contribution
 https://github-readme-stats.vercel.app/api?username=synetrix 
 https://github-readme-stats.vercel.app/api/top-langs/?username=synetrix  
 -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synetrix&" alt="synetrix" /></p>
 ---
 
 ## Contact
