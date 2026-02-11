@@ -19,50 +19,30 @@ Here are some ideas to get you started:
 # [Laura-Lee Jaynarain]
 Data Science • Cybersecurity • Software Engineering
 
-A innovation software, Engineering and technology enthusiast
+A innovation software, Engineering and technology enthusiast <br/>
 Building secure, scalable, and data-driven systems with a security-first mindset.
 
 ---
 
 ## Core Expertise
-- Data Science, Machine Learning, and Analytics  
-- Cybersecurity, Threat Detection, and Secure Systems  
-- Software Engineering, APIs, and Scalable Architectures  
-- Automation, DevOps, and Cloud Workflows  
 
 ---
 
 ## Technical Skills
 
 **Programming**  
-Python, JavaScript, C#, Java, SQL, Bash  
-
-**Data & AI**  
-Pandas, NumPy, Scikit-learn, TensorFlow  
-Data Visualization, Predictive Modeling  
-
-**Cybersecurity**  
-Threat Analysis, Vulnerability Assessment  
-Network Security, Secure Coding  
-Authentication, Encryption, Risk Mitigation  
+Python, HTML, CSS, JavaScript, C#  
 
 **Software & Tools**  
 Git, GitHub, Docker, Linux  
-Node.js, React, .NET  
-Cloud: Azure / AWS  
+Node.js,, .NET  
+  
 
 ---
 
 ## Selected Projects
 
-**Secure Data Analytics Platform**  
-Privacy-focused analytics pipeline using encrypted data processing  
 
-**Cyber Threat Detection Tool**  
-Monitors system activity and flags suspicious behavior  
-
-**Full-Stack Secure Application**  
-Scalable backend with secure authentication and role-based access  
 
 ---
 
@@ -75,9 +55,10 @@ Collaboration and open-source contribution
 ---
 
 ## GitHub Metrics
+<!--
 https://github-readme-stats.vercel.app/api?username=synetrix 
 https://github-readme-stats.vercel.app/api/top-langs/?username=synetrix  
-
+-->
 ---
 
 ## Contact
